@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./heroinnobiliss00hord_0002.png"; bbox 0 0 2337 3745; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 367 2374 1897 2448">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 367 2374 1897 2448">
+     <span class='ocr_line' id='line_1_1' title="bbox 367 2374 1897 2448; baseline -0.01 -1"><span class='ocrx_word' id='word_1_1' title='bbox 367 2387 568 2448; x_wconf 91' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 621 2381 1015 2445; x_wconf 89' lang='lat' dir='ltr'><strong>BOSTON</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1063 2377 1423 2440; x_wconf 85' lang='lat' dir='ltr'>PUBLIC</span> <span class='ocrx_word' id='word_1_4' title='bbox 1472 2374 1897 2435; x_wconf 87' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 432 2660 1825 2751">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 432 2660 1825 2751">
+     <span class='ocr_line' id='line_1_2' title="bbox 432 2660 1825 2751; baseline -0.009 -19"><span class='ocrx_word' id='word_1_5' title='bbox 432 2670 692 2751; x_wconf 83' lang='lat' dir='ltr'>JOAN</span> <span class='ocrx_word' id='word_1_6' title='bbox 748 2668 870 2728; x_wconf 88' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 921 2666 1114 2727; x_wconf 86' lang='lat' dir='ltr'><strong>ARC</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1168 2660 1825 2726; x_wconf 87' lang='lat' dir='ltr'>COLLECTION</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 128 1030 2150 3064">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 128 1030 2150 3064">
+     <span class='ocr_line' id='line_1_3' title="bbox 128 1030 2150 3064; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 128 1030 2150 3064; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

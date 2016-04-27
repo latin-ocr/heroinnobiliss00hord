@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./heroinnobiliss00hord_0012.png"; bbox 0 0 2337 3745; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1838 27 1874 57">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1838 27 1874 57">
+     <span class='ocr_line' id='line_1_1' title="bbox 1838 27 1874 57; baseline 0 -28"><span class='ocrx_word' id='word_1_1' title='bbox 1838 27 1874 57; x_wconf 62' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 238 190 2284 3123">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 238 190 2284 3123">
+     <span class='ocr_line' id='line_1_2' title="bbox 238 190 2284 3123; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 238 190 2284 3123; x_wconf 95' lang='lat' dir='ltr'><em>    </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1831 2930 2284 3123">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1831 2930 2284 3123">
+     <span class='ocr_line' id='line_1_3' title="bbox 1831 2930 2284 3123; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1831 2930 2284 3123; x_wconf 95' lang='lat' dir='ltr'><em>     </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 267 3076 2119 3363">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 267 3076 2119 3363">
+     <span class='ocr_line' id='line_1_4' title="bbox 267 3076 2102 3235; baseline 0.001 -50"><span class='ocrx_word' id='word_1_4' title='bbox 267 3128 271 3218; x_wconf 70' lang='grc' dir='ltr'>ς</span> <span class='ocrx_word' id='word_1_5' title='bbox 435 3125 714 3235; x_wconf 48' lang='lat' dir='ltr'><em>gnate</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 741 3076 1459 3225; x_wconf 49' lang='lat' dir='ltr'><em>audeiztesffallisji</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1508 3097 1671 3187; x_wconf 70' lang='lat' dir='ltr'><em>mle</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1710 3095 2102 3189; x_wconf 44' lang='lat' dir='ltr'><em>tenebam</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 267 3235 2119 3363; baseline 0.002 -39"><span class='ocrx_word' id='word_1_9' title='bbox 267 3235 271 3240; x_wconf 60' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 433 3236 1901 3363; x_wconf 25' lang='lat' dir='ltr'><em>*Palladiumfitubcznsffoimpermnissv</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1919 3267 2119 3351; x_wconf 53' lang='lat' dir='ltr'><em>eran</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
